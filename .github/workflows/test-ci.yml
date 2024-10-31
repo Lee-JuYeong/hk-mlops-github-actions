@@ -19,3 +19,6 @@ jobs:
     - name: Display Python version
       run: python -c "import sys; print(sys.version)"
 
+    - name: 안녕하시소
+      run: echo "사투리 갈치러온 강 민지라예"
+
